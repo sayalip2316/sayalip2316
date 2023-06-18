@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Express, Mongodb, Nodejs**
 
-- 👨‍💻 All of my projects are available at https://sayalip2316.github.io
+- 👨‍💻 All of my projects are available at https://sayalip2316.github.io/
 
 - 📫 How to reach me **jadhavsayalip2316@gmail.com**
 
