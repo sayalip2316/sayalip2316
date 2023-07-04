@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sayali-jadhav-13b84025b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayali jadhav" height="30" width="40" /></a>
- <a href="https://sayalip2316.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3281/3281289.png" alt="sambhaji dhore" height="30" width="40" /></a>
+ <a href="https://sayalip2316.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3281/3281289.png" alt="sayali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayalip2316&show_icons=true&locale=en&layout=compact" alt="sayalip2316" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampatil98&show_icons=true&locale=en" alt="sampatil98" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayalip2316&show_icons=true&locale=en" alt="sayali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampatil98&" alt="sampatil98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayalip2316&" alt="sayali" /></p>
