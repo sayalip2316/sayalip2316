@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/sayali-jadhav-13b84025b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sayali Jadhav" height="30" width="40" /></a>
  <a href="https://sayalip2316.github.io/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3281/3281289.png" alt="sambhaji dhore" height="30" width="40" /></a>
 </p>
-<!-- <img align="center" width="100%" height="400px" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"  alt=""> -->
+<img align="center" width="100%" height="400px" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966"  alt="">
 
 ---
 **<i><h3 align="left">Languages and Tools:</h3></i>**
