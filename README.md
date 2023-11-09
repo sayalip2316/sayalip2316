@@ -54,9 +54,7 @@
 <!--   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?style=for-the-badge&username=sayalip2316" alt="Twitter Badge"/>
-  </a>
+  
 </div>
 
 <p align="left">
